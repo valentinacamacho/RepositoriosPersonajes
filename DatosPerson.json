@@ -1,0 +1,58 @@
+{
+"characters": [
+"id": 1,
+"nombre": "Tokio",
+"Genero": "Femenino",
+"Grupo": "Atracadores"
+"imagen": "https://www.ustedpregunta.com/data/articulos/en-que-personaje-esta-inspirado-tokio-de-la-casa-de-papel/5eb272cc8ba31.jpg"
+},
+{
+"id": 2,
+"nombre": "Nairobi",
+"Genero": "Femenino",
+"Grupo": "Atracadores"
+"imagen": "https://static.mujerhoy.com/www/multimedia/202004/07/media/cortadas/la-casa-de-papel-temporada-4-nairobi-kgTB-U100827296373u0-624x468@MujerHoy.jpg"
+},
+{
+"id": 3,
+"nombre": "El profesor",
+"Genero": "Masculino",
+"Grupo": "Atracadores"
+"imagen": "https://www.quever.news/u/fotografias/m/2020/10/5/f608x342-1686_31409_15.jpg"
+},
+{
+"id": 4,
+"nombre": "Berlin",
+"Genero": "Masculino",
+"Grupo": "Atracadores"
+"imagen": "https://static.wikia.nocookie.net/lacasadepapel/images/7/79/5d2edfef7c547.jpeg/revision/latest/top-crop/width/360/height/450?cb=20200507050628&path-prefix=es"
+},
+{
+"id": 5,
+"nombre": "Helsenki",
+"Genero": "Masculino",
+"Grupo": "Atracadores"
+"imagen": "https://sm.ign.com/ign_latam/screenshot/default/screen-shot-2020-04-05-at-24009-pm_fw5x.png"
+},
+{
+"id": 6,
+"nombre": "Rio",
+"Genero": "Masculino",
+"Grupo": "Atracadores"
+"imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/radiomitre/3GQPJFGFA5A4NLLN3CFOZIHJTE.jpg"
+},
+{
+"id": 7,
+"nombre": "Arturo",
+"Genero": "Masculino",
+"Grupo": "Atracadores"
+"imagen": "https://vader.news/__export/1589204367083/sites/gadgets/img/2020/05/11/arturo.jpg_231361356.jpg"
+},
+{
+"id": 8,
+"nombre": "Denber",
+"Genero": "Masculino",
+"Grupo": "Atracadores"
+"imagen": "https://laverdadnoticias.com/__export/1593548122054/sites/laverdad/img/2020/06/30/jaime_lorente_tuvo_que_hacer_un_gran_cambio_para_entrar_a_la_casa_de_papel.png_52429849.png"
+}
+]
